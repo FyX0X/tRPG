@@ -1,0 +1,5 @@
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\win-x64\publish\tRPG.exe
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\win-x64\publish\tRPG.dll
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\win-x64\publish\tRPG.deps.json
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\win-x64\publish\tRPG.runtimeconfig.json
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\win-x64\publish\tRPG.pdb

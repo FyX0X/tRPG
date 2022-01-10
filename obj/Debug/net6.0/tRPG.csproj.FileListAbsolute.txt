@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\tRPG.exe
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\tRPG.deps.json
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\tRPG.runtimeconfig.json
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\tRPG.dll
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\ref\tRPG.dll
+C:\Users\marti\Desktop\code\vsProjects\tRPG\bin\Debug\net6.0\tRPG.pdb
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.dll
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\ref\tRPG.dll
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.pdb
+C:\Users\marti\Desktop\code\vsProjects\tRPG\obj\Debug\net6.0\tRPG.genruntimeconfig.cache
